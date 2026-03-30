@@ -1,0 +1,20 @@
+# Separate git repo — exclude
+arch-examp-prep/
+
+# Windows artifacts
+NUL
+Thumbs.db
+desktop.ini
+
+# OS files
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Binary source docs (PDFs, docx) — keep text extracts only
+*.pdf
+*.docx

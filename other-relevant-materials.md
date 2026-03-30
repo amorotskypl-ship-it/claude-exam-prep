@@ -1,0 +1,6 @@
+### Relevant Materials (on top of what mentioned in course)
+- [Preparation Materials and Questions](https://git.epam.com/epm-ease/anthropic-cert/arch-examp-prep/)
+- [Post by @hooeem on X](https://x.com/hooeem/status/2033198345045336559)
+- [Reddit: Just passed the new Claude Certified Architect](https://www.reddit.com/r/ClaudeAI/comments/1ruf70b/just_passed_the_new_claude_certified_architect/)
+- [claudecertificationguide.com](https://claudecertificationguide.com/domains/1-agentic-architecture/1-1-agentic-loops)
+- [Context Editing — Claude Platform Docs](https://platform.claude.com/docs/en/build-with-claude/context-editing)

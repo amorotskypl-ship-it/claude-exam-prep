@@ -1,0 +1,96 @@
+Claude Certified Architect - Foundations (CCA-F): ​
+Frequently Asked Questions  
+ 
+Target Persona & Prerequisites 
+Who is the Claude Certified Architect (CCA-F) certification best suited for?  
+This certification is intended for a technical audience. It's a ~301 level exam, 
+designed for practitioners who have foundational knowledge and are ready to 
+demonstrate deeper, applied expertise. 
+What are the prerequisites for exam candidates? 
+Completion of at least all 200-level courses in the attached course catalog, 
+working familiarity with Agent SDK (there's not a course for this in our platform 
+yet), and having built solutions with Claude Code, Agent SDK, Anthropic API, 
+and MCP. 
+Studying for, and registering for the Practice and Certification Exams 
+I just want to take the Certification Exam now, how may I do that? 
+You will be able to access the exam in the Anthropic Academy after logging in 
+with your partner-associated email address at 
+https://anthropic.skilljar.com/claude-certified-architect-foundations-certification via 
+the standard login or 
+https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certifi
+cation using the Partner Academy SSO login if you have that set up. Until then, 
+please read on. 
+What are the basics? 
+Before attempting the Practice and especially the Certification Exams, we strongly 
+suggest that you: 
+●​ Get very familiar with the Claude Certified Architect – Foundations Certification 
+Exam Guide. It contains all the things you need to know about the exam, such as 
+the scenarios that will appear on the exam, the domains and skill areas, 
+preparation exercise ideas, and the types of questions you’ll encounter on the 
+Practice and Certification Exams. This step is very important to your success. 
+Unless you are already very familiar and have practice with Claude Code, 
+Agent SDK, the Claude API, and Model Context Protocol, skipping this step 
+will likely result in you not passing the Certification Exam.  
+●​ Take the Practice Exam and get a passing score of greater than 900/1000. If you 
+get a score of 900 on the Practice Exam, you’ll have a very very good sense of 
+whether you’ll successfully pass the Certification Exam, which will have a 
+passing score of 720.
+ 
+How do I access the Practice Examination and the Exam Study Guide? 
+The practice exam and study guide are administered through Anthropic Academy and 
+are currently only available to our partners. You’ll need to create an account with your 
+partner-associated email address in order to access the materials.  
+I’m getting an account already exists error 
+If an account with your email address already exists, it’s possible that an account was 
+created on your behalf during our beta period. In that case, please follow the password 
+reset instructions below to access your account.  
+1.​ Visit 
+https://accounts.skilljar.com/accounts/profile/password/reset/?t=3gufixqhei80k&d=ca
+hl60vup5xv. You will see the following screen:
+ 
+2.​ Enter the Email Address to which we sent this email. 
+3.​ Select Reset My Password. 
+4.​ If you’ve successfully entered your email, you will see a confirmation screen:​
+ 
+5.​ Check your inbox, and be sure to double check your spam folder. You will receive 
+an email from academy-support@mail.anthropic.com that takes you to a page that 
+looks like this:​
+ 
+6.​ Set a New Password. 
+7.​ Enter your New Password again for confirmation. 
+8.​ Select Change Password. 
+9.​ You will then be on the home page:​
+ 
+10.​Choose Sign In in the top right hand corner. 
+11.​Sign in with your account credentials. 
+12.​Visit the following link to access the Practice 
+Exam:https://anthropic.skilljar.com/anthropic-certification-practice-exam 
+Partner Impact 
+Will this certification have an impact on my Anthropic partner standing? 
+No, this certification will not impact your partner standing. The CCA-F certification 
+will be available to the general public, but is currently being offered exclusively to 
+partners. While this certification will hold weight in terms of Claude expertise in 
+the market, it will not directly impact your standing in Anthropic’s partner 
+program. Partner-specific certifications that align to the program will be available 
+later this year. Stay tuned! 
+How is the Certification connected to the upcoming Forward Deployed Engineer 
+(FDE) Black Belt level certification?  
+Details are to be determined, but for those folks who pass the exam, they may be 
+the first of our potential future Black Belt FDEs, and Claude Champions. 
+Logistics 
+Will this exam be proctored?  
+Yes, we partnered with ProctorFree for exam proctoring. 
+How many certification attempts are permitted? 
+One attempt. 
+Is there a cost associated with the certification? 
+The exam costs $99. Some participants may have a promo code through their 
+partner organization. 
+If I pass, do I get a badge? 
+Yes! Practitioners who complete the certification during will receive a CCA-F 
+badge that is shareable on LinkedIn. 
+ 
+ 
+Do you have additional questions that were not covered here? 
+Email Anthropic Education Support at academy-support@mail.anthropic.com 
+ 
+ 

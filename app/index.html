@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Architect Exam Prep</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h1>Claude Architect</h1>
+      <p class="subtitle">Exam Prep Platform</p>
+      <div class="header-controls">
+        <div class="lang-switcher" id="langSwitcher" title="Toggle language">
+          <span class="lang-icon lang-icon-en">EN</span>
+          <div class="lang-toggle-track"></div>
+          <span class="lang-icon lang-icon-ru">RU</span>
+        </div>
+        <div class="theme-switcher" id="themeToggle" title="Toggle light/dark theme">
+          <span class="theme-icon theme-icon-sun">&#9788;</span>
+          <div class="theme-toggle-track"></div>
+          <span class="theme-icon theme-icon-moon">&#9790;</span>
+        </div>
+      </div>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#" class="nav-link active" data-page="dashboard"><span class="nav-icon">&#9633;</span> Dashboard</a></li>
+      <li class="nav-item-study">
+        <a href="#" class="nav-link" data-page="study"><span class="nav-icon">&#9776;</span> Study Guide <span class="nav-chevron">&#9656;</span></a>
+        <ul class="nav-sub" id="studySubNav"></ul>
+      </li>
+      <li><a href="#" class="nav-link" data-page="quiz"><span class="nav-icon">&#10004;</span> Practice Quiz</a></li>
+      <li><a href="#" class="nav-link" data-page="flashcards"><span class="nav-icon">&#9830;</span> Flashcards</a></li>
+      <li><a href="#" class="nav-link" data-page="reference"><span class="nav-icon">&#9881;</span> Quick Reference</a></li>
+      <li><a href="#" class="nav-link" data-page="strategy"><span class="nav-icon">&#9733;</span> Exam Strategy</a></li>
+    </ul>
+    <div class="sidebar-footer">
+      <div class="exam-countdown" id="examCountdown">
+        <span class="countdown-label">Days until exam</span>
+        <span class="countdown-number" id="daysLeft">7</span>
+      </div>
+      <button class="btn btn-sm" onclick="app.resetProgress()">Reset Progress</button>
+    </div>
+  </nav>
+
+  <button class="menu-toggle" id="menuToggle">&#9776;</button>
+
+  <main class="content" id="content">
+    <!-- Pages rendered here by JS -->
+  </main>
+
+  <script src="js/data-questions.js"></script>
+  <script src="js/data-study.js"></script>
+  <script src="js/data-flashcards.js"></script>
+  <script src="js/data-reference.js"></script>
+  <script src="js/data-strategy.js"></script>
+  <script src="js/data-questions-ru.js"></script>
+  <script src="js/data-study-ru.js"></script>
+  <script src="js/data-flashcards-ru.js"></script>
+  <script src="js/data-reference-ru.js"></script>
+  <script src="js/data-strategy-ru.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
